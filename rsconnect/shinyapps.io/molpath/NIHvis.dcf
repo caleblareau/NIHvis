@@ -1,0 +1,10 @@
+name: NIHvis
+title: NIHvis
+account: molpath
+server: shinyapps.io
+appId: 216905
+bundleId: 990154
+url: https://molpath.shinyapps.io/NIHvis/
+when: 1505944864.7107
+asMultiple: FALSE
+asStatic: FALSE
